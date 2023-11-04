@@ -1,4 +1,7 @@
-# React + Vite
+# React + Vite + DEPLOYED
+
+Deployed on Netlify: https://polite-selkie-a3214c.netlify.app/
+Deployed on Vercel:  https://blog-account-n0ltppqsm-umairs-projects-19a3c5ac.vercel.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
